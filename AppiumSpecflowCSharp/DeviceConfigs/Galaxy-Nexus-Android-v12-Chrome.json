@@ -1,0 +1,10 @@
+﻿{
+  "AutomationName": "UIAutomator2",
+  "BrowserName": "Chrome",
+  "DeviceName": "emulator-5554",
+  "Ip": "127.0.0.1",
+  "PlatformName": "Android",
+  "PlatformVersion": 12.0,
+  "Port": 4723,
+  "Url": "http://127.0.0.1:4723/wd/hub"
+}
